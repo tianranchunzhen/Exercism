@@ -2,7 +2,6 @@ pub fn answer(command: &str) -> Option<i32> {
     let cleaned_command = command
         .strip_prefix("What is ")?
         .strip_suffix("?")?
-        .trim()
         .replace("multiplied by", "multiplied-by")
         .replace("divided by", "divided-by");
 
