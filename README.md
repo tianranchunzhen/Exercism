@@ -4,9 +4,7 @@
 >
 > 小镇做题家，启动😎👉😭！
 
-在 [Exercism](https://exercism.org/) 上的编程练习解答，完成后自动提交 PR。
-
-目前主要练习的编程语言是：
+在 [Exercism](https://exercism.org/) 上的编程练习解答，目前主要练习的编程语言是：
 
 - Rust
 - Python
@@ -18,9 +16,7 @@
 >
 > The small-town swot mode, activated 😎👉😭!
 
-Solutions to coding exercises on [Exercism](https://exercism.org/). Automatically submit a PR upon completion.
-
-Currently focusing on the following programming languages:
+Solutions to coding exercises on [Exercism](https://exercism.org/). Currently focusing on the following programming languages:
 
 - Rust
 - Python
